@@ -11,6 +11,7 @@ public class Calculator {
         return num2 * num2;
     }
     public static double divide(double num1, double num2){
+        int a = 4;
         return num1 / num2;
     }
 }
